@@ -24,7 +24,7 @@ The dataset contains fashion products, including images and information about cl
 - NumPy
 - Matplotlib
 - Seaborn
-- Inspiration
+## Inspiration
 
 Inspired by Cher Horowitz's iconic digital closet, this project combines fashion, data analysis and 90s nostalgia.
 
