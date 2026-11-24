@@ -14,17 +14,17 @@ The project aims to explore and analyse fashion products using Python, creating 
 
 **Source:** Kaggle
 
-Link: https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+**Link:** https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
 
 The dataset contains fashion products, including images and information about clothing categories, colours, gender, seasons and usage.
 
-Technologies
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Inspiration
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Inspiration
 
 Inspired by Cher Horowitz's iconic digital closet, this project combines fashion, data analysis and 90s nostalgia.
 
