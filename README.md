@@ -6,9 +6,9 @@ As If! Wardrobe is a **fashion data analysis project** inspired by Cher Horowitz
 
 The project aims to explore and analyse fashion products using Python, creating the foundation for a virtual wardrobe where users can browse clothing items, explore different styles and discover outfit combinations.
 
-##Participants
+## Participants
 - **Name:** Maia Valentina Borre Meza
-##Dataset
+## Dataset
 
 **Dataset:** Fashion Product Images (Small)
 
