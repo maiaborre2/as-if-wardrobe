@@ -1,6 +1,6 @@
-#💋 As If! Wardrobe
-###A virtual fashion wardrobe inspired by Clueless (1995).
-##About the Project
+# 💋 As If! Wardrobe
+### A virtual fashion wardrobe inspired by Clueless (1995).
+## About the Project
 
 As If! Wardrobe is a **fashion data analysis project** inspired by Cher Horowitz's iconic virtual closet in the movie Clueless.
 
